@@ -23,3 +23,11 @@ Thumbs.db
 
 # Virtual env
 /venv
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
